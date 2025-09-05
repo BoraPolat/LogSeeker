@@ -63,6 +63,19 @@ This application filters Windows Security Logs to display only relevant events, 
    - 🔍 **Open Exported CSV**: Access recently exported files instantly
    - 📋 **Review**: Analyze filtered, well-structured logs
 
+🔧 Parameter Flexibility
+All parameters except Starting & Ending Time are completely optional - LogSeeker can run with minimal configuration:
+
+Path Field: Can be left blank to analyze entire system across all drives and locations
+Username Field: Can be left blank to include all users, or specify a username to filter by specific user activities
+Filename Field: Can be left blank to include all files, or specify filename patterns to locate specific file operations
+Checkboxes (Archive Logs, etc.): Can be left unchecked to use default system security logs
+Optional Log File: Can be left blank to use current system logs
+
+Only the Operation Type and Starting & Ending Time parameters are required for targeted analysis. All other fields provide additional filtering options but can be omitted for broader system-wide analysis.
+
+This flexibility allows IT professionals to perform comprehensive system-wide analysis or narrow down to highly specific requirements as needed.
+
 ## 🎯 Use Cases
 
 - **System Administrators**: Monitor file system changes across corporate networks
