@@ -109,3 +109,5 @@ For questions, support, or licensing inquiries:
 ---
 
 **Note**: LogSeeker is designed to work with Windows Security logs. Ensure you have appropriate permissions to access Security logs on your system for optimal functionality. Audit Settings are required to be configured for Event Viewer to generate file system logs.
+
+<img width="1244" height="755" alt="Image" src="https://github.com/user-attachments/assets/4048600d-9186-4860-9aa1-2a675cddc4dc" />
