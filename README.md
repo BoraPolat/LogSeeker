@@ -63,7 +63,7 @@ This application filters Windows Security Logs to display only relevant events, 
    - 🔍 **Open Exported CSV**: Access recently exported files instantly
    - 📋 **Review**: Analyze filtered, well-structured logs
 
-🔧 Parameter Flexibility
+### 🔧 Parameter Flexibility
 All parameters except Starting & Ending Time are completely optional - LogSeeker can run with minimal configuration:
 
 Path Field: Can be left blank to analyze entire system across all drives and locations
