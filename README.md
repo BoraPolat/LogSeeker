@@ -36,7 +36,7 @@ This application filters Windows Security Logs to display only relevant events, 
 ### Installation
 **No installation required!** Simply download and run the executable file.
 
-1. Download and extract `LogSeeker_v1.0.0_Release.rar`
+1. Download and extract `LogSeeker_vx.x.x_Release.rar`
 2. Run the LogSeeker.exe as Administrator (recommended)
 3. Start filtering your Security logs
 
