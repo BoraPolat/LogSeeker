@@ -30,7 +30,7 @@ This application filters Windows Security Logs to display only relevant events, 
 ## 🚀 Getting Started
 
 ### Requirements
-- Windows Operating System
+- Windows 11 Operating System (ENG)
 - Administrative privileges (recommended for full Security log access)
 
 ### Installation
